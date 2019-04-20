@@ -1,0 +1,1 @@
+"# funcoes-no-php-strlen-" 
